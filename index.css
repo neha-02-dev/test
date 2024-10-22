@@ -1,0 +1,64 @@
+*{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+.bg-container{
+    background-image:url("https://media.tenor.com/C9yxFcjG0OsAAAAd/world-connected-planet.gif");
+    height:100vh;
+    background-size:cover;
+}
+.h1{
+    color:white
+}
+.button{
+    background-color:transparent;
+    border:2px solid white;
+    color:white;
+    padding:8px;
+    border-radius:15px;
+}
+.button:hover{
+    background-color:white;
+    color:black;
+}
+.google{
+    border:2px solid black;
+}
+.image{
+    width:50%;
+   
+
+}
+li{
+    list-style-type:none;
+}
+.contact{
+    width:100%;
+    border-radius:10%;
+}
+.map{
+    width:100%;
+}
+.logoimage{
+    width:100%;
+}
+.contact-image{
+    width:100%;
+}
+
+label {
+    display: block;
+    margin: 10px 0 5px;
+}
+
+input[type="text"],
+input[type="tel"],
+input[type="email"],
+textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
